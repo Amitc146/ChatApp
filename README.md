@@ -13,6 +13,6 @@ Client:
 - Run 'RunClient' class.
 
 \
-<img src="images/screenshot1.PNG">
-<img src="images/screenshot2.PNG">
+<img src="images/screenshot1.PNG">\
+<img src="images/screenshot2.PNG">\
 <img src="images/screenshot3.PNG">
